@@ -1,0 +1,43 @@
+
+
+
+body {
+	background-image:url("wood background.jpg"); 
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	font-family: Verdana ,"Courier New", sans-serif;
+
+  	 }
+.sub{
+	color:rgb(255, 215, 200);
+
+	}
+#main{
+	color:white;
+	background-color:Tomato;
+	text-align: center;
+}
+h1{
+	color:rgb(255, 215, 200);
+}
+h2{
+	color:white;
+	background-color:Tomato;
+	text-align: center;
+}
+
+
+h3{
+	color:rgb(255, 215, 200);
+}
+figcaption{
+	color: white;
+}
+
+
+
+
+
+
+
